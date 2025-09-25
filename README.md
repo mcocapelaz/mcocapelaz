@@ -5,13 +5,14 @@
 
  ## Contacto
 
- ![Website](https://img.shields.io/website?url=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fmcocapelaz)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmcocapelaz&up_message=online&down_message=offline&up_color=green&down_color=red)
 
  ## Activity
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mcocapelaz/mcocapelaz)
 
-![GitHub followers](https://img.shields.io/github/followers/mcocapelaz)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcocapelaz)
+
 
 
 
