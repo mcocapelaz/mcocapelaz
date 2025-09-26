@@ -2,10 +2,10 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Cada 6 horas
-  workflow_dispatch:       # Para ejecutar manualmente
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
-    branches: [ main ]     # También cuando hagas push
+    branches: [ main ]
 
 jobs:
   update-activity:
@@ -13,16 +13,15 @@ jobs:
     name: Actualizar actividad reciente
     
     steps:
-      - name: 📥 Checkout del repositorio
+      - name: 📥 Checkout
         uses: actions/checkout@v4
         
-      - name: 🔄 Actualizar actividad reciente
-        uses: mcocapelaz/github-activity-readme@master
+      - name: 🔄 Actualizar actividad reciente  
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: '🤖 Actualizar actividad reciente'
           MAX_LINES: 8
-          COMMIT_NAME: 'GitHub Activity Bot'
-          COMMIT_EMAIL: 'activity-bot@github.com'
+
 
