@@ -1,25 +1,28 @@
+name: Update Recent Activity
+
 on:
   schedule:
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Cada 6 horas
+  workflow_dispatch:       # Para ejecutar manualmente
+  push:
+    branches: [ main ]     # También cuando hagas push
 
 jobs:
-  build:
+  update-activity:
     runs-on: ubuntu-latest
-    name: Update Profile README
-
+    name: Actualizar actividad reciente
+    
     steps:
-      - uses: actions/checkout@v4.2.2
-      
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: 📥 Checkout del repositorio
+        uses: actions/checkout@v4
+        
+      - name: 🔄 Actualizar actividad reciente
+        uses: mcocapelaz/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-## 🚀 Mi Actividad Reciente en GitHub
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-*Última actualización automática via GitHub Actions* 🤖
+        with:
+          COMMIT_MSG: '🤖 Actualizar actividad reciente'
+          MAX_LINES: 8
+          COMMIT_NAME: 'GitHub Activity Bot'
+          COMMIT_EMAIL: 'activity-bot@github.com'
 
