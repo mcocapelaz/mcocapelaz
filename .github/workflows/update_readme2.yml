@@ -14,3 +14,12 @@ jobs:
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+## 🚀 Mi Actividad Reciente en GitHub
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+*Última actualización automática via GitHub Actions* 🤖
+
