@@ -1,0 +1,13 @@
+name: Mi Workflow
+on: [push]
+jobs:
+  mi-trabajo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+      
+      - name: Hacer algo con mi código
+        run: |
+          ls -la
+          echo "¡Ahora puedo usar mis archivos!"
