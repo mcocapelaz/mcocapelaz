@@ -15,7 +15,6 @@
 
 ###: zap: Recent activity
 <!--start_section: activity-->
-
 <!--end_section: activity-->
 
 
