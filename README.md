@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-:computer: I am a web programming student at Adalab.
+:computer: I am a web programming student at Adalab
 
  ## Contacto
 
