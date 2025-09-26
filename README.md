@@ -13,7 +13,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcocapelaz)
 
-###: zap: Recent activity
 
 
 
