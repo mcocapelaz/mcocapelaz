@@ -13,13 +13,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcocapelaz)
 
-## 📈 Mi Actividad Reciente en GitHub
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-*Actualizado automáticamente cada 6 horas via GitHub Actions* 🤖
 
 
 
