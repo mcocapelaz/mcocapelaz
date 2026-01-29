@@ -11,7 +11,7 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mcocapelaz/mcocapelaz)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcocapelaz)
+
 
 
 
