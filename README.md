@@ -30,7 +30,6 @@
 
 ### Tutorials
 
-
 **[Node.js and Express Installation Guide for Beginners](https://github.com/mcocapelaz/technical-writing-portfolio/blob/main/writing-samples/tutorials/%23%20Node.js%20and%20Express%20Installation%20Guide%20for%20Beginners.md)**
 - **Audience:** Junior developers with basic JavaScript knowledge
 - **Challenge solved:** Simplified a typically confusing setup process
@@ -44,6 +43,14 @@
 - **Challenge solved:** Created complete reference from scratch for educational project
 - **Highlights:** Interactive examples, error handling guide, code samples in multiple languages
 - **Topics**: REST APIs, CRUD operations, JSON
+
+### Troubleshooting
+
+**[Git Panic Station: Survival Guide for Junior Developers](https://github.com/mcocapelaz/technical-writing-portfolio/blob/main/writing-samples/troubleshooting/Git-Panic-Station.md)**
+- **Audience:** Junior developers (0-2 years) experiencing Git emergencies
+- **Challenge solved:** Transformed intimidating Git troubleshooting into an empathetic, urgency-based guide that reduces panic and provides immediate solutions
+- **Highlights:** Organized by panic levels (🟢 Mild → 🔴 Full → 🚨 Nuclear), real-world scenarios, prevention integrated in every section, visual ASCII diagrams, step-by-step recovery instructions
+- **Topics**: Git workflows, merge conflicts, commit management, branch operations, reflog recovery, force-push accidents, secrets in history, stash operations
 
 ## My Approach
 
