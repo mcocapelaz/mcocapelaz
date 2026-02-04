@@ -3,11 +3,11 @@
 
 ## About Me
 
-**Technical Writer** specializing in developer documentation, with 25+ years of experience making complex information accessible. 
+**Full-Stack Developer & Technical Writer** with hands-on experience building and documenting web technologies.
 
-**What I bring:** Journalism background (clear storytelling) + hands-on coding experience (I speak developer) = documentation that actually helps users accomplish tasks.
+**What I bring:** I combine journalism-trained clarity with practical development skills in HTML, CSS, JavaScript, React, Node.js with Express and SQL. 
 
-**Currently expanding my training through:** Google Technical Writing Course, Platzi TW Course and GitLab University Certification.
+**Curious, proactive, and committed to continuous learning.**
 
 ## Skills & Tools
 **Technical Skills:**
@@ -58,11 +58,11 @@ I don't just document features—I document **user goals**.
 
 Every guide I write answers: *"What is the user trying to accomplish, and what's the fastest path to get there?"*
 
-**My advantage:** 25+ years of journalism taught me to make complex topics accessible. Recent coding training taught me to think like a developer. Together? Documentation that actually works.
+**My advantage:** Journalism trained me to explain complexity. Development trained me to build it. I focus on documentation and code that work together.
 
 ## Let's talk 
 
-I'm actively seeking technical writing opportunities.
+I am actively seeking opportunities in Technical Writing or Junior Development.
 
 * 📧 Email: [mcocapelaz@gmail.com](mailto:mcocapelaz@gmail.com)
 * 💼 LinkedIn: [Mónica Coca](https://www.linkedin.com/in/mcocapelaz)
