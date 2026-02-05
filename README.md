@@ -37,6 +37,9 @@ See detailed projects with live demos and code at:
 
 ## Writing Samples
 
+See detailed projects at:
+→ [(https://github.com/mcocapelaz/technical-writing-portfolio)](https://github.com/mcocapelaz/technical-writing-portfolio))
+
 ### Tutorials
 
 **[Node.js and Express Installation Guide for Beginners](https://github.com/mcocapelaz/technical-writing-portfolio/blob/main/writing-samples/tutorials/%23%20Node.js%20and%20Express%20Installation%20Guide%20for%20Beginners.md)**
