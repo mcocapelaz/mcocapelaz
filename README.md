@@ -25,10 +25,10 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-## Developer Portfolio With Live Demos:
+## Developer Portfolio:
 
-See detailed projects with live demos and code at:
-→ [https://mcocapelaz.github.io/myPersonalPortfolio/](https://mcocapelaz.github.io/myPersonalPortfolio/)
+See detailed projects at:
+→ [(https://mcocapelaz.github.io/myPersonalPortfolio/](https://mcocapelaz.github.io/myPersonalPortfolio))
 
 **Key highlights:**
 - Magical Characters Search App (React, JavaScript, REST API)
