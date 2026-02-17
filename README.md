@@ -1,5 +1,5 @@
 # Mónica Coca
->Creating clear, user-centered documentation for web technologies
+>Creating clear, user-centered code and documentation for web technologies
 
 ## About Me
 
