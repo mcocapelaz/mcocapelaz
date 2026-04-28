@@ -3,7 +3,7 @@
 
 ## About Me
 
-**Full-Stack Developer & Technical Writer** with hands-on experience building and documenting web technologies.
+**Full-Stack Developer & Writer** with hands-on experience building and documenting web technologies.
 
 **What I bring:** I combine journalism-trained clarity with practical development skills in HTML, CSS, JavaScript, React, Node.js with Express and SQL. 
 
@@ -68,19 +68,15 @@ See detailed projects at:
 
 I don't just build features or document them—I focus on **user goals**.
 
-Every line of code and every guide I write answers: *"What is the user trying to accomplish, and what's the fastest path to get there?"*
-
-**My advantage:** 25+ years in journalism trained me to explain complexity. Recent development training taught me to build it. As a junior developer and technical writer, I create clean code and clear documentation that work together.
+**My advantage:** 25+ years in journalism trained me to explain complexity. Recent development training taught me to build it. As a junior developer and  writer, I create clean code and clear documentation that work together.
 
 ## Let's talk 
-
-I am actively seeking opportunities in Technical Writing or Junior Development.
 
 * 📧 Email: [mcocapelaz@gmail.com](mailto:mcocapelaz@gmail.com)
 * 💼 LinkedIn: [Mónica Coca](https://www.linkedin.com/in/mcocapelaz)
 * 🐙 GitHub: [@mcocapelaz](https://github.com/mcocapelaz)
 
-**Open to:** Full-time roles, contract work, open-source contributions
+
 
 
 
