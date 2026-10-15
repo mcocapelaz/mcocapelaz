@@ -3,7 +3,7 @@
 
 ## About Me
 
-**Full-Stack Developer & Writer** with hands-on experience building and documenting web technologies.
+**Communication Specialist And Data Insights Analyst** 
 
 **What I bring:** I combine journalism-trained clarity with practical development skills in HTML, CSS, JavaScript, React, Node.js with Express and SQL. 
 
@@ -64,11 +64,8 @@ See detailed projects at:
 - **Highlights:** Organized by panic levels (🟢 Mild → 🔴 Full → 🚨 Nuclear), real-world scenarios, prevention integrated in every section, visual ASCII diagrams, step-by-step recovery instructions
 - **Topics**: Git workflows, merge conflicts, commit management, branch operations, reflog recovery, force-push accidents, secrets in history, stash operations
 
-## My Approach
 
-I don't just build features or document them—I focus on **user goals**.
-
-**My advantage:** 25+ years in journalism trained me to explain complexity. Recent development training taught me to build it. As a junior developer and  writer, I create clean code and clear documentation that work together.
+**My advantage:** 25+ years in journalism trained me to explain complexity. Recent development training taught me to build it. 
 
 ## Let's talk 
 
